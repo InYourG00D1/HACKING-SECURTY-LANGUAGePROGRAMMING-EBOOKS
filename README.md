@@ -112,7 +112,7 @@
 <tr><td>1001.</td><td><a target="_blank" href="https://books.goalkicker.com/CBook">C</a></td><td>300+ Pages</td></tr>
 <tr><td>102.</td><td><a target="_blank" href="https://books.goalkicker.com/CPlusPlusBook">C++</a></td><td>600+ Pages</td></tr>
 <tr><td>103.</td><td><a target="_blank" href="https://books.goalkicker.com/CSharpBook">C#</a></td><td>700+ Pages</td></tr>
-<tr><td>104.</td><td><a target="_blank" href="https://books.goalkicker.com/JavaBook">JAVA</a></td><td><900+ Pages</td></tr>
+<tr><td>104.</td><td><a target="_blank" href="https://books.goalkicker.com/JavaBook">JAVA</a></td><td>900+ Pages</td></tr>
 <tr><td>105.</td><td><a target="_blank" href="https://books.goalkicker.com/JavaScriptBook">JAVASCRIPT</a></td><td>400 Pages</td></tr>
 <tr><td>106.</td><td><a target="_blank" href="https://books.goalkicker.com/KotlinBook">KOTLIN</a></td><td>80 Pages</td></tr>
 <tr><td>107.</td><td><a target="_blank" href="https://books.goalkicker.com/iOSBook">iOS Devoloper</a></td><td>800+ Pages</td></tr>
