@@ -1,7 +1,7 @@
-[!]If you have ebooks please contact InYourG00D1@gmail.com
-[!]If there is an error link or a pdf that cannot be downloaded, please contact InYourG00D1@gmail.com
-Thanks For Support: LNX#.CREW | SOUL TEAM CYBER 
-Instagram : @Yn.y11
+#[!]If you have ebooks please contact InYourG00D1@gmail.com
+#[!]If there is an error link or a pdf that cannot be downloaded, please contact InYourG00D1@gmail.com
+#Thanks For Support: LNX#.CREW | SOUL TEAM CYBER 
+#Instagram : @Yn.y11
 
 <table width="100%" class="table">
 <tr>
