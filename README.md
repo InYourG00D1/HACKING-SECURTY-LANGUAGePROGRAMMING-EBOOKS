@@ -1,9 +1,12 @@
-# HACKING-SECURTY-LANGUAGePROGRAMMING-EBOOKS
+[!]If you have ebooks please contact InYourG00D1@gmail.com
+[!]If there is an error link or a pdf that cannot be downloaded, please contact InYourG00D1@gmail.com
+Thanks For Support: LNX#.CREW | SOUL TEAM CYBER 
+Instagram : @Yn.y11
 
 <table width="100%" class="table">
 <tr>
-<th>S.No</th>
-<th>E-Book (PDF Link)</th>
+<th>No</th>
+<th>E-Books (PDF Link)</th>
 <th>Total Pages</th>
 </tr>
 <tr><td>1.</td><td><a target="_blank" href="https://mega.nz/file/abI2jbxA#rLmfn-cda99y9VF9NaV53xQEzIY_wHVtyRodLU-qKyg">Advanced Penetration Testing</a></td><td>269 Pages</td></tr>
@@ -106,5 +109,12 @@
 <tr><td>98.</td><td><a target="_blank" href="https://mega.nz/file/6SY2wJhS#Tla1GsHPg6NzxdExbd03jK5--hr62-R_xG6aHaI4374">24 Deadly Sins of Software Securtiy</a></td><td>433 Pages</td></tr>
 <tr><td>99.</td><td><a target="_blank" href="https://mega.nz/file/rLQCHZLA#hUk6UqVzfcfyPL3ftYx7HR6d9HNo7p8IdUQjNMlOCTQ">Botnets - The Killer Web App</a></td><td>482 Pages</td></tr>
 <tr><td>100.</td><td><a target="_blank" href="https://mega.nz/file/OaIkUbbS#WXfTCl5-quuooEq1xf-MOtm3iMaDLOt8v9X3hTm4rA8">Hacker Highschool - Hack School for Beginners (ZIP)</a></td><td>12 Books</td></tr>
-<tr><td>1001.</td><td><a target=#_blank" href="https://books.goalkicker.com/CBook">C</a></td><td>300+ Pages</td></tr>
+<tr><td>1001.</td><td><a target="_blank" href="https://books.goalkicker.com/CBook">C</a></td><td>300+ Pages</td></tr>
+<tr><td>102.</td><td><a target="_blank" href="https://books.goalkicker.com/CPlusPlusBook">C++</a></td><td>600+ Pages</td></tr>
+<tr><td>103.</td><td><a target="_blank" href="https://books.goalkicker.com/CSharpBook">C#</a></td><td>700+ Pages</td></tr>
+<tr><td>104.</td><td><a target="_blank" href="https://books.goalkicker.com/JavaBook">JAVA</a></td><td><td>900+ Pages</td></tr>
+<tr><td>105.</td><td><a target="_blank" href="https://books.goalkicker.com/JavaScriptBook">JAVASCRIPT</a></td><td><td>400 Pages</td><tr>
+<tr><td>106.</td><td><a target="_blank" href="https://books.goalkicker.com/KotlinBook">KOTLIN</a></td><td><td>80 Pages</td><tr>
+<tr><td>107.</td><td><a target="_blank" href="https://books.goalkicker.com/iOSBook">iOS Devoloper</a></td><td><td>800+ Pages</td><tr>
+<tr><td>108.</td><td><a target="_blank" href="https://books.goalkicker.com/NodeJSBook">NodeJS</a></td><td><td>300+ Pages</td><tr>
 </table>
