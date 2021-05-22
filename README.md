@@ -3,7 +3,7 @@
 # Thanks For Support: LNX#.CREW | SOUL TEAM CYBER 
 
 
-<table width="100%" class="table">
+<table width="150%" class="table">
 <tr>
 <th>No</th>
 <th>E-Books (PDF Link)</th>
