@@ -3,7 +3,7 @@
 # Thanks For Support: LNX#.CREW | SOUL TEAM CYBER 
 
 
-<table width="180%" class="table">
+<table width="200%" class="table">
 <tr>
 <th>No</th>
 <th>E-Books (PDF Link)</th>
@@ -109,7 +109,7 @@
 <tr><td>98.</td><td><a target="_blank" href="https://mega.nz/file/6SY2wJhS#Tla1GsHPg6NzxdExbd03jK5--hr62-R_xG6aHaI4374">24 Deadly Sins of Software Securtiy</a></td><td>433 Pages</td></tr>
 <tr><td>99.</td><td><a target="_blank" href="https://mega.nz/file/rLQCHZLA#hUk6UqVzfcfyPL3ftYx7HR6d9HNo7p8IdUQjNMlOCTQ">Botnets - The Killer Web App</a></td><td>482 Pages</td></tr>
 <tr><td>100.</td><td><a target="_blank" href="https://mega.nz/file/OaIkUbbS#WXfTCl5-quuooEq1xf-MOtm3iMaDLOt8v9X3hTm4rA8">Hacker Highschool - Hack School for Beginners (ZIP)</a></td><td>12 Books</td></tr>
-<tr><td>1001.</td><td><a target="_blank" href="https://books.goalkicker.com/CBook">C</a></td><td>300+ Pages</td></tr>
+<tr><td>101.</td><td><a target="_blank" href="https://books.goalkicker.com/CBook">C</a></td><td>300+ Pages</td></tr>
 <tr><td>102.</td><td><a target="_blank" href="https://books.goalkicker.com/CPlusPlusBook">C++</a></td><td>600+ Pages</td></tr>
 <tr><td>103.</td><td><a target="_blank" href="https://books.goalkicker.com/CSharpBook">C#</a></td><td>700+ Pages</td></tr>
 <tr><td>104.</td><td><a target="_blank" href="https://books.goalkicker.com/JavaBook">JAVA</a></td><td>900+ Pages</td></tr>
