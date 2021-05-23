@@ -1,6 +1,6 @@
-# [!]If you have ebooks please contact InYourG00D1@gmail.com
-# [!]If there is an error link or a pdf that cannot be downloaded, please contact InYourG00D1@gmail.com
-# Thanks For Support: LNX#.CREW | SOUL TEAM CYBER 
+# [!]If you have ebooks please contact InYourG00D@gmail.com
+# [!]If there is an error link or a pdf that cannot be downloaded, please contact InYourG00D@gmail.com
+Thanks For Support: LNX#.CREW | SOUL TEAM CYBER 
 
 
 <table width="200%" class="table">
