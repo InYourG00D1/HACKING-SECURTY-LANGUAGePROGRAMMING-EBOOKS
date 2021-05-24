@@ -117,4 +117,5 @@ Thanks For Support: LNX#.CREW | SOUL TEAM CYBER
 <tr><td>106.</td><td><a target="_blank" href="https://books.goalkicker.com/KotlinBook">KOTLIN</a></td><td>80 Pages</td></tr>
 <tr><td>107.</td><td><a target="_blank" href="https://books.goalkicker.com/iOSBook">iOS Devoloper</a></td><td>800+ Pages</td></tr>
 <tr><td>108.</td><td><a target="_blank" href="https://books.goalkicker.com/NodeJSBook">NodeJS</a></td><td>300+ Pages</td></tr>
+Follow Instagram : @ragil_iygd77
 </table>
